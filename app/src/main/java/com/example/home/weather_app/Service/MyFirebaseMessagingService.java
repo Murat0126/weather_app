@@ -6,7 +6,7 @@ import android.content.Intent;
 import android.graphics.BitmapFactory;
 import android.media.RingtoneManager;
 import android.net.Uri;
-import android.support.v4.app.NotificationCompat;
+import androidx.core.app.NotificationCompat;
 import com.example.home.weather_app.MainActivity;
 import com.example.home.weather_app.R;
 import com.google.firebase.messaging.RemoteMessage;
