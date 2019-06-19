@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "729005404393",
+    "firebase_url": "https://fir-for-weather.firebaseio.com",
+    "project_id": "fir-for-weather",
+    "storage_bucket": "fir-for-weather.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729005404393:android:f7d4dbb3983b9d06",
+        "android_client_info": {
+          "package_name": "com.example.home.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729005404393-4u125vpvsnhuaq8na7mpgpg3nmgphh5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.home.firebase",
+            "certificate_hash": "db7d9716850520b837b077da8a9a905784670453"
+          }
+        },
+        {
+          "client_id": "729005404393-4a5iln9s7e4pl32cijlnqaffooiihglk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt4iX_la2-rFFLDN8gT5qflq_TuunOyK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729005404393-4a5iln9s7e4pl32cijlnqaffooiihglk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729005404393:android:7445a24197779eee",
+        "android_client_info": {
+          "package_name": "com.example.home.weather_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729005404393-4a5iln9s7e4pl32cijlnqaffooiihglk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt4iX_la2-rFFLDN8gT5qflq_TuunOyK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729005404393-4a5iln9s7e4pl32cijlnqaffooiihglk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorBlue">#020350</color>
+    <color name="nightTransparent">#778f8f</color>
+    <color name="dayTransparent">#e32ce7ea</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#46035616</color>
+    <color name="colorBlack">#000000</color>
+    <color name="background">#1d0101</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="Transparent">#9067af</color>>
+    <color name="colorRed">#be1c07</color>>
+    <color name="colorheadText">#a2a903a3</color>
+    <color name="colorCity">#ac00574b</color>
+    <color name="colorNightText">#252d2d</color>
+    <color name="colordayText">#039396</color>
+    <color name="colorBackground">#ac61c5e4</color>
+    <color name="colorMainText">#f4f4f2</color>
+</resources>

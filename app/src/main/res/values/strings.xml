@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather_App</string>
+    <string name="label">Weather</string>
+    <string name="Item">Прогноз погоды на 5 дней Для города Бишкек</string>
+    <string name="temperature">Temperature</string>
+    <string name="slash">/</string>
+    <string name="day">Day</string>
+    <string name="date">2019-06-03</string>
+    <string name="link">link</string>
+    <string name="http">http://___</string>
+    <string name="night">Night</string>
+    <string name="locality">locality</string>
+</resources>
